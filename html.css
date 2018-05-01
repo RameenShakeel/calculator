@@ -1,0 +1,95 @@
+#body {
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-radial-gradient(circle, red, yellow, green); /* Safari */
+    background: -o-radial-gradient(circle, maroon, #ff6699, #ffccff); /* Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(circle, maroon, #ff6699, #ffccff); /* Firefox 3.6 to 15 */
+    background: radial-gradient(circle, maroon, #ff6699, #ffccff); /* Standard syntax */
+
+}
+#ac
+{ border: 2px solid black;
+    background-color:  burlywood;
+    width: 165px;
+
+}
+#box
+{ height: 45px;
+    width: 220px;
+}
+
+#div
+{
+    border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#zero
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#one{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#two{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#three{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#four{border: 2px solid black;
+
+    background-color: burlywood;
+    width: 52px;
+}
+#five
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#six
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#sev
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#eight
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#nine{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#mul
+ {border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+ }
+#sub
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#plus
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#dot
+{border: 2px solid black;
+    background-color: burlywood;
+    width: 52px;
+}
+#equal{border: 2px solid black;
+    background-color: burlywood;
+    width: 110px;
+}
